@@ -1,15 +1,8 @@
-### Hi there 👋
+# React + Vite
 
-- 🔭 I’m an Informatics Engineering student at Brawijaya University
-- 💻 I've enjoyed JavaScript and PHP as my main language in creating a project.
-- 🌱 I’m currently learning React and Kotlin
-- 👯 Mobile Development Cohort at Bangkit Academy 2024 Ied by Google, Tokopedia, Gojek, & Traveloka
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ibar-huttaqi-700595261/)
-- 😄 Pronouns: He/Him
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-<p align="left">
-<a href="https://github.com/ibarhuttaqi">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ibarhuttaqi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ibarhuttaqi&layout=compact&layout=compact&theme=algolia"/>
-</a>
-</p>
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
